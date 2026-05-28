@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderperify",
+        "uuid": 4549878,
+        "checksum": "oiwk2u"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
